@@ -26,3 +26,27 @@ p {
   font-size: 19px;
   line-height: 2;
 }
+
+.hero {
+  background-color: var(--secondary-color);
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero p {
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+  color: #a304a3;
+}
+
+.hero h2 {
+  font-weight: normal;
+  line-height: 2;
+  font-size: 20px;
+  font-family: "Press Start 2P", cursive;
+  border: solid black;
+  margin: 40px auto;
+  display: block;
+  max-width: 900px;
+}
